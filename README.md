@@ -27,7 +27,7 @@ THEN I find a concise, descriptive title
 ```
 ## Acomplished tasks
 
-1. Incorporation of HTML semmantics tags for better overall flow while following a logic structure (<nav> <header><main><section><aside><header><footer>)
+1. Incorporation of HTML semmantics tags for better overall flow while following a logic structure nav, header,main,section,aside,header and footer.
 
 2. Addedd a more descriptive website tittle
 
@@ -37,11 +37,8 @@ THEN I find a concise, descriptive title
 
 4. Added alt attribute to all the images within the webpage to account for errors should the browser fails to load the project.
 
-
-
 ## Screenshot
-.
-
+![](assets/images/Screen Shot 2021-02-25 at 2.43.38 pm.png)
 ## Deployed Application
-!
-https://luisbonilla89.github.io/Homework-1/
+Please follow the following link: https://luisbonilla89.github.io/Homework-1/
+
